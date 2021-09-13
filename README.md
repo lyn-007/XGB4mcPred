@@ -1,4 +1,6 @@
-# XGB4mcPred: Identification of DNA N4-methylcytosine Sites in multiple species based on an eXtreme Gradient Boosting algorithm and DNA sequence information
+# XGB4mcPred
+
+### Identification of DNA N4-methylcytosine Sites in multiple species based on an eXtreme Gradient Boosting algorithm and DNA sequence information
 
 
 ## Abstract
@@ -11,20 +13,20 @@ N4-methylcytosine; eXtreme Gradient Boosting; sites identification; feature sele
 ## Datasets
 
 ### Benchmark Datasets
-- A. thaliana: A_tha.txt
-- C. elegans: C_ele.txt
-- D. melanogaster: D_mel.txt
-- E. coli: E_col.txt
-- G. pickeringii: G_pic.txt
-- G. subterruneus: G_sub.txt
+- A. thaliana: [A_tha.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Benchmark%20Datasets/A_tha.txt)
+- C. elegans: [C_ele.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Benchmark%20Datasets/C_ele.txt)
+- D. melanogaster: [D_mel.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Benchmark%20Datasets/D_mel.txt)
+- E. coli: [E_col.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Benchmark%20Datasets/E_col.txt)
+- G. pickeringii: [G_pic.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Benchmark%20Datasets/G_pic.txt)
+- G. subterruneus: [G_sub.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Benchmark%20Datasets/G_sub.txt)
 
 
 ### Independent Datasets
-- A. thaliana: A_tha_indep.txt
-- C. elegans: C_ele_indep.txt
-- D. melanogaster: D_mel_indep.txt
-- E. coli: E_col_indep.txt
-- G. pickeringii: G_pic_indep.txt
-- G. subterruneus: G_sub_indep.txt
+- A. thaliana: [A_tha_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/A_tha_indep.txt)
+- C. elegans: [C_ele_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/C_ele_indep.txt)
+- D. melanogaster: [D_mel_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/D_mel_indep.txt)
+- E. coli: [E_col_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/E_col_indep.txt)
+- G. pickeringii: [G_pic_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/G_pic_indep.txt)
+- G. subterruneus: [G_sub_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/G_sub_indep.txt)
 
 
