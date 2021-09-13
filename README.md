@@ -36,6 +36,10 @@ N4-methylcytosine; eXtreme Gradient Boosting; sites identification; feature sele
 
 ## Code
 
+- [feature_ext.py](https://github.com/lyn-007/XGB4mcPred/blob/main/src/feature_ext.py): The code of the feature extraction 
+- [feature_selection.py](https://github.com/lyn-007/XGB4mcPred/blob/main/src/feature_selection.py): The code of the feature selection
+- [training.py](https://github.com/lyn-007/XGB4mcPred/blob/main/src/training.py): The code of model training
+- [predicted.py](https://github.com/lyn-007/XGB4mcPred/blob/main/src/predicted.py): The code of the model prediction
 
 
 
