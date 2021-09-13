@@ -1,6 +1,6 @@
 # XGB4mcPred
 
-### Identification of DNA N4-methylcytosine Sites in multiple species based on an eXtreme Gradient Boosting algorithm and DNA sequence information
+Identification of DNA N4-methylcytosine Sites in multiple species based on an eXtreme Gradient Boosting algorithm and DNA sequence information
 
 
 ## Abstract
@@ -28,5 +28,14 @@ N4-methylcytosine; eXtreme Gradient Boosting; sites identification; feature sele
 - E. coli: [E_col_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/E_col_indep.txt)
 - G. pickeringii: [G_pic_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/G_pic_indep.txt)
 - G. subterruneus: [G_sub_indep.txt](https://github.com/lyn-007/XGB4mcPred/blob/main/Independent%20Datasets/G_sub_indep.txt)
+
+## PKL
+
+- [features_pkl](https://github.com/lyn-007/XGB4mcPred/blob/main/features_pkl): The optimal features for each datasets are stored in this folder.
+- [pkl](https://github.com/lyn-007/XGB4mcPred/blob/main/pkl): The optimal model for each datasets are stored in this folder.
+
+## Code
+
+
 
 
